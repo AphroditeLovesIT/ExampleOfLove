@@ -1,0 +1,17 @@
+# This is a simulator of what I call legal and orginized sex games
+
+puts "For every print of sanity and self-love I call hit"
+
+class Legal
+	def sexy
+		puts "Your love put me out here, why not call it?"
+		i = ["Ah!", "Ah!", "Ah!", "Ah!"]
+			for a in i do
+				puts i
+			end
+		
+	end
+end
+legal = Legal.new
+legal.sexy
+			
