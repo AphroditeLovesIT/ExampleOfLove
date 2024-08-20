@@ -1,1 +1,1 @@
-Just run it!
+Written in Ruby, just run it!
